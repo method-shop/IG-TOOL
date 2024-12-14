@@ -17,7 +17,7 @@ faker = Faker()
 app = Flask(__name__)
 
 # Initialize Telegram Bot
-TOKEN = "YOUR_TOKEN"  # Replace with your actual token
+TOKEN = "6805752027:AAHiCrrdTsieMCdWATYek6di1TPOP0-OADY"  # Replace with your actual token
 bot = telegram.Bot(token=TOKEN)
 
 # Define conversation states
